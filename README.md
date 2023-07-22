@@ -12,7 +12,7 @@ https://www.elecrow.com/display/esp-hmi-display.html?idd=3
 
 I chose the 3.5" touch screen because it seemed the "best fit" for hobbyists, although I was tempted by the huge 7" screen they have too!  
 https://www.elecrow.com/esp32-display-3-5-inch-hmi-display-spi-tft-lcd-touch-screen.html?idd=3  
-
+At the time of writing (July 2023) it's on special offer. I recommend you also get the case, it's less than $2.  
 
 ### Libraries
 Although Elecrow make a big splash on their website about using the open source LVGL (Light & Versatile Graphics Library), which I'm sure is great, I never got a chance to use it, as all the example sketches did not seem aimed at the ESP32 processor (example: the backlight control was attached to "pin 46" which the ESP32 doesn't even have). This will need more investigation.  
