@@ -49,7 +49,12 @@ Once I'd got this information (it took a while) everything just fell into place 
 
 I've also corrected one of their sketches that uses the ESP32's inbuilt DAC (Digital to Analog Conversion) that can read an .mp3 file and send the resulting audio to one of the DAC pins (either 25 or 26, in this case pin 26).
 
-Just have a look at the folder and files attached to this GitHub to get yourself up and running in no time.
+Just have a look at the folder and files attached to this GitHub to get yourself up and running in no time.  
+
+### Things to be aware of  
+I found that the automatic full reset of the ESP32 board after an upload did nothing. You have to press the reset button yourself again.  
+
+You have to press RESET, then BOOT, then release RESET to allow a sketch upload. Once the sketch starts uploading you can release the BOOT button.  
 
 ► List of all my videos
 (Special thanks to Michael Kurt Vogel for compiling this)  
