@@ -1,6 +1,6 @@
 # Video #269 - Elecrow 3.5" TFT with ESP32 (built-in)
 
-![Thumbnail-00028 (Custom)](https://github.com/RalphBacon/269-Elecrow-3.5-TFT-with-ESP32-built-in/assets/20911308/9e60afce-a3e3-4ff3-9346-b08cf9185151)  
+![Thumbnail-00028 (Custom)](https://github.com/RalphBacon/269-Elecrow-3.5-TFT-with-ESP32-built-in/assets/20911308/6e7465cf-7dde-4e0c-b961-130a23e53f4b)  
 ### Video link: https://youtu.be/EMpF5-0YeSM 
 <br>  
 
